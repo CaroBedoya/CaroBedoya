@@ -26,8 +26,8 @@ Además, complemento mi perfil con **soluciones no-code en AppSheet**, pruebas d
 ---
 
 ### 📫 Conectemos
-- LinkedIn: [linkedin.com/in/carobedoya](https://www.linkedin.com/in/carobedoya/)  
-- Email: carobedoya@gmail.com  
+- LinkedIn: [linkedin.com/in/carolina-bedoya-m/](https://www.linkedin.com/in/carolina-bedoya-m/) 
+- Email: jennycaritobedoya@gmail.com  
 
 ---
 ⭐ *Siempre en constante aprendizaje y en busca de nuevos retos tech.*
