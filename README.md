@@ -1,11 +1,22 @@
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/CaroBedoya/CaroBedoya/main/banner.png" alt="Banner - Carolina Bedoya" />
 </p>
 
-# 👩‍💻 Hola, soy Carolina Bedoya
+<!-- Nombre centrado -->
+<h1 align="center">👩‍💻 Carolina Bedoya</h1>
 
-### 🚀 Full Stack Developer | QA Tester | AppSheet Solutions | Diseño de Logos
+<p align="center">
+  🚀 Full Stack Developer | QA Tester | AppSheet Solutions | Diseño de Logos  
+</p>
 
+<p align="center">
+  🌐 <a href="https://carobedoya.github.io" target="_blank">Visita mi Portafolio</a>
+</p>
+
+---
+
+### ✨ Sobre mí
 Soy una desarrolladora apasionada por la tecnología, con experiencia en **JavaScript, React, Node.js, Express, MongoDB y APIs REST**.  
 Además, complemento mi perfil con **soluciones no-code en AppSheet**, pruebas de calidad (QA), y **diseño de logos** para identidad visual profesional.
 
@@ -30,9 +41,10 @@ Además, complemento mi perfil con **soluciones no-code en AppSheet**, pruebas d
 ---
 
 ### 📫 Conectemos
-- LinkedIn: [linkedin.com/in/carolina-bedoya-m/](https://www.linkedin.com/in/carolina-bedoya-m/)  
-- Email: **jennycaritobedoya@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/carolina-bedoya-m/](https://www.linkedin.com/in/carolina-bedoya-m/)  
+- 📧 Email: **jennycaritobedoya@gmail.com**
 
 ---
 
 ⭐ *Siempre en constante aprendizaje y en busca de nuevos retos tech.*
+
